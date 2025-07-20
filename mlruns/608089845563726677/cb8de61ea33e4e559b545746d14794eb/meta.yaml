@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/608089845563726677/cb8de61ea33e4e559b545746d14794eb/artifacts
+end_time: 1752947787767
+entry_point_name: ''
+experiment_id: '608089845563726677'
+lifecycle_stage: active
+run_id: cb8de61ea33e4e559b545746d14794eb
+run_name: clean-lark-910
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752947768702
+status: 3
+tags: []
+user_id: DELL

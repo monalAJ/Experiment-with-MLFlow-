@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/608089845563726677/7e91c1514c2d4981b92aa5e080990003/artifacts
+end_time: 1752946303685
+entry_point_name: ''
+experiment_id: '608089845563726677'
+lifecycle_stage: active
+run_id: 7e91c1514c2d4981b92aa5e080990003
+run_name: rogue-dog-417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752946303004
+status: 3
+tags: []
+user_id: DELL
